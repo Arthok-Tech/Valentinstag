@@ -5,7 +5,7 @@ import time
 # ---------------------------------------------------------
 # Seite konfigurieren
 # ---------------------------------------------------------
-st.set_page_config(page_title="Für meine Lieblingsperson", page_icon="❤️")
+st.set_page_config(page_title="Für Leben", page_icon="❤️")
 
 # ---------------------------------------------------------
 # Globales Styling
